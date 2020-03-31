@@ -12,5 +12,5 @@ else if (click = 1){
 }
 
 function changeButton(){
-  click = 1;
+  var click = 1;
 }
